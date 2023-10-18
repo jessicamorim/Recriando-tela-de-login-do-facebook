@@ -4,4 +4,4 @@
 
 Linguagens: HTML E CSS
 
-OBS: a título de aprendizado
+OBS: Título de aprendizado
